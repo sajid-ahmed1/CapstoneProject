@@ -2,7 +2,7 @@
 
 ## Motivation
 
-The motivation for this topic and dataset was due to my interest in Formula 1. I have been watching Formula 1 on and off since 2009 when Jenson Button lifted the Championship trophy racing with Brawn GP and their infamous double diffuser. I look through the dataset that is published on Kaggle here: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020 but retrieved using Ergast API here: http://ergast.com/mrd/. As of 30th of December 2024, the Formula 1 has concluded for the year with the data updated monthly. I also posted a medium article about my findings here: 
+The motivation for this topic and dataset was due to my interest in Formula 1. I have been watching Formula 1 on and off since 2009 when Jenson Button lifted the Championship trophy racing with Brawn GP and their infamous double diffuser. I look through the dataset that is published on Kaggle here: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020 but retrieved using Ergast API here: http://ergast.com/mrd/. As of 30th of December 2024, the Formula 1 has concluded for the year with the data updated monthly. I also posted a medium article about my findings here: https://medium.com/@caesura-oilers0y/are-races-really-won-on-the-track-22e434eeec7e
 
 ## Findings
 
